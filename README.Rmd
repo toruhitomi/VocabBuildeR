@@ -1,0 +1,41 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# VocabBuildeR
+
+<!-- badges: start -->
+[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+<!-- badges: end -->
+
+The goal of VocabBuildeR is to support your vocabulary learning. Running this app, you'll get a word quiz with 10 or fewer (you can set to your preferred number) words that you have learned. You will be asked the target's definition with multiple choices. The app logs and accumulates your history of word learning so that your learning intervals and opportunities are optimized.
+
+## Installation
+
+You can install the released version of VocabBuildeR from [Github](https://github.com/toruhitomi/VocabBuildeR) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("toruhitomi/VocabBuildeR")
+```
+
+## Example
+
+This is a basic example which shows you how to solve a common problem:
+
+```{r example}
+library(VocabBuildeR)
+## basic example code
+```
+
