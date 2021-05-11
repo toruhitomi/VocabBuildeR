@@ -1,0 +1,21 @@
+---
+title: "VocabBuildeR"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{VocabBuildeR}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+  %\VignetteDepends{openxlsx}
+  %\VignetteDepends{rlang}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(VocabBuildeR)
+```

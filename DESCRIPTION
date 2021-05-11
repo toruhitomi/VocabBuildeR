@@ -21,8 +21,13 @@ RoxygenNote: 7.1.1
 URL: https://github.com/toruhitomi/VocabBuildeR
 BugReports: https://github.com/toruhitomi/VocabBuildeR/issues
 Suggests: 
+    knitr,
     covr,
     spelling,
-    testthat (>= 3.0.0)
+    testthat (>= 3.0.0),
+    rmarkdown,
+    openxlsx,
+    rlang
 Config/testthat/edition: 3
 Language: en-US
+VignetteBuilder: knitr

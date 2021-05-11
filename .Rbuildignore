@@ -16,3 +16,5 @@ $run_dev.*
 ^Makefile$
 ^Jenkinsfile$
 ^\.gitlab-ci\.yml$
+^doc$
+^Meta$
