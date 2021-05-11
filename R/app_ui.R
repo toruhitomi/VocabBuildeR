@@ -10,7 +10,8 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # Your application UI logic 
     fluidPage(
-      h1("VocabBuildeR")
+      h1("VocabBuildeR"),
+      mod_read_wordlist_ui("read_wordlist_ui_1")
     )
   )
 }
