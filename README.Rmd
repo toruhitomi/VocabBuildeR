@@ -21,6 +21,8 @@ knitr::opts_chunk$set(
 
 [![Codecov test coverage](https://codecov.io/gh/toruhitomi/VocabBuildeR/branch/master/graph/badge.svg)](https://codecov.io/gh/toruhitomi/VocabBuildeR?branch=master)
 
+[![Travis build status](https://travis-ci.com/toruhitomi/VocabBuildeR.svg?branch=master)](https://travis-ci.com/toruhitomi/VocabBuildeR) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/toruhitomi/VocabBuildeR?branch=master&svg=true)](https://ci.appveyor.com/project/toruhitomi/VocabBuildeR)
+
 <!-- badges: end -->
 
 The goal of VocabBuildeR is to support your vocabulary learning. Running this app, you'll get a word quiz with 10 or fewer (you can set to your preferred number) words that you have learned. You will be asked the target's definition with multiple choices. Accuracy of your responses is recorded so that the words you don't remember will be presented more frequently than others you already accurately recalled the definition. The app logs and accumulates your history of word learning so that your learning intervals and opportunities are optimized.

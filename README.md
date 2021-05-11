@@ -11,6 +11,11 @@ experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](h
 [![Codecov test
 coverage](https://codecov.io/gh/toruhitomi/VocabBuildeR/branch/master/graph/badge.svg)](https://codecov.io/gh/toruhitomi/VocabBuildeR?branch=master)
 
+[![Travis build
+status](https://travis-ci.com/toruhitomi/VocabBuildeR.svg?branch=master)](https://travis-ci.com/toruhitomi/VocabBuildeR)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/toruhitomi/VocabBuildeR?branch=master&svg=true)](https://ci.appveyor.com/project/toruhitomi/VocabBuildeR)
+
 <!-- badges: end -->
 
 The goal of VocabBuildeR is to support your vocabulary learning. Running

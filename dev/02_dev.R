@@ -72,7 +72,6 @@ usethis::use_github_action_check_full()
 usethis::use_github_action_pr_commands()
 
 # Travis CI
-usethis::use_travis() 
 usethis::use_travis_badge() 
 
 # AppVeyor 
